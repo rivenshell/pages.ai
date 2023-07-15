@@ -59,6 +59,12 @@ export default function Contact() {
         dance with grace, embracing life's melodies, and savor the ethereal
         beauty that resides within each fleeting moment.
       </p>
+      <a
+        href="https://www.youtube.com/channel/UCgCRFeMc7HGpt--DLJoocQg"
+        className="hover:bg-red-600"
+      >
+        youtube channel
+      </a>
     </main>
   )
 }
