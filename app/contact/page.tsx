@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>Contact</h1>
+      <h1>I make websites... heres some lore</h1>
       <h1>The Ephemeral Dance: In Quest of True Happiness</h1>
       <p className="text-sm font-small">
         Introduction: In the intricate tapestry of human existence, happiness
